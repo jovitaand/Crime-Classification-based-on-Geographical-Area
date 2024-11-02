@@ -71,13 +71,6 @@ The analysis revealed significant crime patterns, such as:
 
 The system has the potential to significantly improve safety awareness and decision-making for various users, including real estate agents and residents. Future work may involve expanding the data sources, refining machine learning models, and improving the user interface to provide more detailed and accessible insights.
 
-## How to Use
 
-1. Clone the repository.
-2. Install necessary dependencies.
-3. Run the model scripts to train and test different classifiers.
-
-## License
-
-This project is licensed under the MIT License.
+ 
 
